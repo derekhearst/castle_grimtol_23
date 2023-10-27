@@ -1,8 +1,7 @@
 # Hackoween 2023
-## Castle Grimtol
+## Castle Grimtol 
 
-Halloween Hackathon Starter Repo
-
+> Halloween Hackathon 23 Starter Repo
 
 ### How to Use this Secret
 
@@ -13,7 +12,9 @@ Anything on this website is up for grabs. It's images, sounds, colors and storie
 
 ### Requirements
 
-If you want your project to take be judged and to be eligible for prizes; You must fork this repository and push your to the linked fork. You can re-name it what ever you would like and get rid of any assets you are not using. This ensures each project was started and completed by the right time and keeps all of the projects created for this hackathon linked together.
+If you want your project judged and eligible for prizes; You must fork this repository and push your to the linked fork. You can re-name it what ever you would like and get rid of any assets you are not using. This ensures each project was started and completed by the accepted time and keeps all of the projects created for this hackathon linked together.
+
+Good Luck and remember to have fun!
 
 
 ### The Legend of Castle Grimtol
