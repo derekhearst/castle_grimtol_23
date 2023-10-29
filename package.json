@@ -33,6 +33,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@mdi/font": "^7.3.67",
 		"openai": "^4.14.1"
 	}
 }
