@@ -12,7 +12,7 @@
 		if (data.floor == 1) {
 			User.health = 100;
 		}
-		if (data.floor == 20) {
+		if (data.floor == 8) {
 			goto('/win');
 		}
 		log = [];

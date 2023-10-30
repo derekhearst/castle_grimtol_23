@@ -18,9 +18,11 @@ export async function load({ params }) {
 			],
 			max_tokens: 300,
 		});
-	} catch {
+	} catch (e) {
+		console.log(e);
 		throw error(500, 'Failed to generate character');
 	}
+	console.log(message);
 	let parsed: CharacterCompletion;
 	try {
 		parsed = JSON.parse(message.choices[0].text);
@@ -30,6 +32,7 @@ export async function load({ params }) {
 	}
 	const imageGen = await openAIClient.images.generate({
 		prompt: parsed.description,
+
 		size: '256x256',
 	});
 	const name = parsed.name;

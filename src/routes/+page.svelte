@@ -4,7 +4,9 @@
 </script>
 
 <img src="/assets/img/grimtolTownWideLowContrast.png" alt="" class="h-full w-full static inset-0" />
-<main class="h-full w-full inset-0 max-h-screen overflow-clip absolute flex justify-center z-10 items-center">
+
+<main class="h-full w-full inset-0 max-h-screen overflow-clip absolute flex flex-col justify-center z-10 items-center">
+	<img src="/assets/img/castleGrimtolLogo.png" alt="" class="w-96 mb-2" />
 	<div class="z-10 bg-black border-r-orange-500 flex flex-col gap-2 text-white p-4 rounded-md">
 		<h1 class="text-4xl mx-auto">Welcome to Grimtol</h1>
 		<p class="text-lg">
